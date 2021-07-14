@@ -2,6 +2,5 @@
 
 Olá! Livro de receitas
 
-* Macarrão com carne moída
-
-  
+* Macarrão com carne moída.
+* Bife com batata frita
